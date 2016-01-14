@@ -1,0 +1,23 @@
+bubblesort	N = 10000
+39.8602		106.0997	186.5628	285.4126	405.6812
+568.1002	794.6285	1211.3172	2468.1163	2460275.3156
+Number of compares = 99980001			Number of moves = 99795088
+Relative # of compares = 9998.0001		Relative # of moves = 9979.5088
+
+selectionsort	N = 10000
+39.8602		106.0997	186.5628	285.4126	405.6812
+568.1002	794.6285	1211.3172	2468.1163	2460275.3156
+Number of compares = 49995000			Number of moves = 39960
+Relative # of compares = 4999.5000		Relative # of moves = 3.9960
+
+insertionsort	N = 10000
+39.8602		106.0997	186.5628	285.4126	405.6812
+568.1002	794.6285	1211.3172	2468.1163	2460275.3156
+Number of compares = 24948772			Number of moves = 9999
+Relative # of compares = 2494.8772		Relative # of moves = 0.9999
+
+quicksort1	N = 10000
+39.8602		106.0997	186.5628	285.4126	405.6812
+568.1002	794.6285	1211.3172	2468.1163	2460275.3156
+Number of compares = 152615				Number of moves = 95157
+Relative # of compares = 15.2615		Relative # of moves = 9.5157
